@@ -1,6 +1,9 @@
 /* Style the heading */
 body {
   background-color: #badce0;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
 }
 #heading {
   font-size: 36px;
@@ -34,6 +37,13 @@ body {
 #articles {
   margin-top: 50px;
   font-family:Courier ;
+  grid-column: 1 / 2;
+}
+
+#lists {
+  margin-top: 50px;
+  font-family:Courier ;
+  grid-column: 2 / 3;
 }
 
 .title{
