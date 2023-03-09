@@ -1,0 +1,31 @@
+/* Style the heading */
+body {
+  background-color: #badce0;
+}
+#heading {
+  font-size: 36px;
+  font-family: Courier;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Style the menu */
+#menu {
+  font-size: 24px;
+  font-family: Courier;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Style the article container */
+#articles {
+  margin-top: 50px;
+  font-family:Courier ;
+}
+
+.title{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size
+  
+}
